@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="d3dInit.cpp">
+    <ClCompile Include="preparation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
